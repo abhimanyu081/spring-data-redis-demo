@@ -1,0 +1,1 @@
+This application demonstrate the working of spring data redis
